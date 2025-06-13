@@ -26,3 +26,5 @@ first_touch AS (
 SELECT user_id, channel
 FROM first_touch
 WHERE rn = 1;
+
+
